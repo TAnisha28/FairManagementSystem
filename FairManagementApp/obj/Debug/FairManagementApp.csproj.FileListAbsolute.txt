@@ -1,0 +1,15 @@
+G:\Nisha_102175\FairManagementProject\FairManagementApp\FairManagementApp\bin\Debug\FairManagementApp.exe.config
+G:\Dot_Net\FairManagementProject\FairManagementApp\FairManagementApp\bin\Debug\FairManagementApp.exe.config
+G:\Dot_Net\FairManagementProject\FairManagementApp\FairManagementApp\bin\Debug\FairManagementApp.exe
+G:\Dot_Net\FairManagementProject\FairManagementApp\FairManagementApp\bin\Debug\FairManagementApp.pdb
+G:\Dot_Net\FairManagementProject\FairManagementApp\FairManagementApp\obj\Debug\FairManagementApp.csprojResolveAssemblyReference.cache
+G:\Dot_Net\FairManagementProject\FairManagementApp\FairManagementApp\obj\Debug\FairManagementApp.Properties.Resources.resources
+G:\Dot_Net\FairManagementProject\FairManagementApp\FairManagementApp\obj\Debug\FairManagementApp.MainUI.resources
+G:\Dot_Net\FairManagementProject\FairManagementApp\FairManagementApp\obj\Debug\FairManagementApp.UI.Visitor_Entry.resources
+G:\Dot_Net\FairManagementProject\FairManagementApp\FairManagementApp\obj\Debug\FairManagementApp.UI.Zone_Specific_Visitor_Information_Report.resources
+G:\Dot_Net\FairManagementProject\FairManagementApp\FairManagementApp\obj\Debug\FairManagementApp.UI.Zone_Type_Entry.resources
+G:\Dot_Net\FairManagementProject\FairManagementApp\FairManagementApp\obj\Debug\FairManagementApp.UI.Zone_Type_Wise_Visitor_Number_Report.resources
+G:\Dot_Net\FairManagementProject\FairManagementApp\FairManagementApp\obj\Debug\FairManagementApp.csproj.GenerateResource.Cache
+G:\Dot_Net\FairManagementProject\FairManagementApp\FairManagementApp\obj\Debug\FairManagementApp.exe
+G:\Dot_Net\FairManagementProject\FairManagementApp\FairManagementApp\obj\Debug\FairManagementApp.pdb
+G:\Dot_Net\FairManagementProject\FairManagementApp\FairManagementApp\obj\Debug\FairManagementApp.csproj.ResolveComReference.cache
